@@ -2,7 +2,6 @@ extern crate regex;
 
 mod fizzbuzz;
 mod fibonacci;
-mod squeeze;
 
 fn main() {
     
