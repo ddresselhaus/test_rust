@@ -1,6 +1,6 @@
 
 
-fn main() {
+pub fn fizzbuzz() {
    
     let mut fizz: Vec<String> = vec![];
 
